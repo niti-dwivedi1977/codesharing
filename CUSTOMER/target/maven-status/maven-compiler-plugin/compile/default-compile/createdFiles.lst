@@ -1,0 +1,5 @@
+com/wipro/dao/CustomerRepository.class
+com/wipro/CustomerApplication.class
+com/wipro/controller/CustomerLoginController.class
+com/wipro/model/CustomerLogin.class
+com/wipro/service/CustomerLoginServiceImpl.class
